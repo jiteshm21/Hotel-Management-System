@@ -21,6 +21,6 @@ A C++ project that uses OOP concepts and File Handling to store the records of r
 
 ![1](/Screenshots/1.png)
 
-![2](/Screenshots/2 (1).png)
+![2](/Screenshots/2.png)
 
-![3](/Screenshots/3 (1).png)
+![3](/Screenshots/3.png)
